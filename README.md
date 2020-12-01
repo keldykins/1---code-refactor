@@ -9,6 +9,12 @@ Adjusted relative paths and deployed to live website.
 
 https://keldykins.github.io/code-refactor/
 
+## Contact
+
+Github: [keldykins](http://github.com/keldykins)
+<br />
+Email: [kelcundy@gmail.com](kelcundy@gmail.com)
+
 ## License
 
 Copyright (c) 2020 Keldan Cundy
